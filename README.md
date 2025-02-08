@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Sreejyothi S. 
-- A passionate data analyst on a mission to transform raw data into actionable insights that fuel growth
+- 👋 Hi, I’m Sreejyothi S, A passionate data analyst on a mission to transform raw data into actionable insights that fuel growth
 - 🌱 I’m currently immersing myself in ML
 
 
